@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Software Engineering 2/8;<br>🔮 Focus on Java Backend;
+📚 Software Engineering 3/8;<br>🔮 Focus on Java Backend;
 
 
 ## 🌐 Socials:
